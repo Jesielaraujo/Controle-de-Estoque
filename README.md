@@ -9,6 +9,7 @@
 * Compilação
 
 1 - qmake controlestoque.pro
+
 2 - make -f Makefile
 
 ### Exemplos
