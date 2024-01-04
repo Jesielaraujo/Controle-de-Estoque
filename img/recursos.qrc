@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/arquivo_de">
+        <file>aberto.png</file>
+        <file>fechado.png</file>
+    </qresource>
+</RCC>
