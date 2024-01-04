@@ -22,8 +22,7 @@ senha : cliente
 
 ### Orientação
 
-* Autor: Prof. Dr. Ruben Carlo Benante
-* Email: rcb@upe.br
+* Prof. Dr. Ruben Carlo Benante
 * Data: 2023-02-09
 * Licensa: GNU/GPL v2.0
 
